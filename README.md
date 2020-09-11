@@ -23,10 +23,16 @@
 ##### 기능
 
 - 사용자
-
+  - 예약
+  - 대여 후기 등록
+  - Q&A 통한 상담
+  
 ![system_user](https://user-images.githubusercontent.com/57435148/92854815-87a99e00-f42c-11ea-90ef-c05874654358.PNG)
 
 - 관리자
+  - 대여, 반납 처리
+  - 자동차 등록
+  - Q&A 답변 등록
 
 ![system_manager](https://user-images.githubusercontent.com/57435148/92854825-89736180-f42c-11ea-87bf-baf29df52de9.PNG)
 
