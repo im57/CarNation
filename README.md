@@ -16,7 +16,7 @@
 
 ##### Use Case
 
-<img src="image/usecase"  style="zoom: 50%;" />
+![usecase](https://user-images.githubusercontent.com/57435148/92854717-6cd72980-f42c-11ea-977d-1e16d1c19f4f.png)
 
 
 
