@@ -16,7 +16,7 @@
 
 ##### Use Case
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122520602.png" alt="image-20200911122520602" style="zoom: 50%;" />
+<img src="image/usecase"  style="zoom: 50%;" />
 
 
 
