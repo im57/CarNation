@@ -24,27 +24,28 @@
 
 - 사용자
 
-  <img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122627875.png" alt="image-20200911122627875" style="zoom:50%;" />
+![system_user](https://user-images.githubusercontent.com/57435148/92854815-87a99e00-f42c-11ea-90ef-c05874654358.PNG)
 
 - 관리자
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122645227.png" alt="image-20200911122645227" style="zoom: 33%;" />
+![system_manager](https://user-images.githubusercontent.com/57435148/92854825-89736180-f42c-11ea-87bf-baf29df52de9.PNG)
 
 - 시스템
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122711551.png" alt="image-20200911122711551" style="zoom:50%;" />
+![system_system](https://user-images.githubusercontent.com/57435148/92854833-8bd5bb80-f42c-11ea-9b78-8e40759e4591.PNG)
+
 
 
 
 ##### Class
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122825807.png" alt="image-20200911122825807" style="zoom:50%;" />
+![Class](https://user-images.githubusercontent.com/57435148/92854881-9f812200-f42c-11ea-986e-67503f9a1184.PNG)
 
 
 
 ##### MVC구조
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122744452.png" alt="image-20200911122744452" style="zoom:50%;" />
+![mvc](https://user-images.githubusercontent.com/57435148/92854876-9e4ff500-f42c-11ea-9841-7eaacc9aa3f6.PNG)
 
 
 
