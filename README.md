@@ -51,17 +51,9 @@
 
 ##### Request 처리 흐름
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122855990.png" alt="image-20200911122855990" style="zoom: 67%;" />![image-20200911122905076](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122905076.png)
-
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122905076.png" alt="image-20200911122905076" style="zoom: 67%;" />
-
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200911122949265.png" alt="image-20200911122949265" style="zoom: 67%;" />
-
-
-
-
-
-
+![request1](https://user-images.githubusercontent.com/57435148/92855359-2635ff00-f42d-11ea-8367-e723cdb02633.PNG)
+![request2](https://user-images.githubusercontent.com/57435148/92855363-27672c00-f42d-11ea-9f93-ae53d829c920.PNG)
+![request3](https://user-images.githubusercontent.com/57435148/92855369-27ffc280-f42d-11ea-89eb-9b16414585f3.PNG)
 
 ---
 
